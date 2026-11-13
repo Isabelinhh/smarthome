@@ -1,4 +1,4 @@
-name: Construir APK Android (Capacitor)
+﻿name: Construir APK Android (Capacitor)
 
 on:
   push:
@@ -37,6 +37,9 @@ jobs:
 
       - name: Gerar recursos visuais Android
         run: npx capacitor-assets generate --android
+
+      - name: Gerar aplicacao Web
+        run: npm run build
 
       - name: Sincronizar Capacitor com Android
         run: npx cap sync android
