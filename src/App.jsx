@@ -1,4 +1,4 @@
-import { useState } from 'react'
+import React, { useState } from 'react'
 import { Home, Lightbulb, Thermometer, ShieldCheck, Zap, Wifi, Plus, ChevronRight, Power, Wind, Tv, DoorOpen, Sun, Moon, Settings, Bell, SlidersHorizontal } from 'lucide-react'
 
 const initialDevices = [
