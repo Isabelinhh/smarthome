@@ -1,3 +1,4 @@
+<img width="4005" height="3004" alt="Mockuuups Free Isometric iPhone Air Mockup" src="https://github.com/user-attachments/assets/e7d12ab3-7609-4775-80d8-ec40a1a07f3f" />
 # SmartHome — Aplicativo mobile
 
 Projeto React + Vite + Capacitor criado para a atividade de Identidade Visual Nativa.
